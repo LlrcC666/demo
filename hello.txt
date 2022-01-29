@@ -7,6 +7,6 @@ hello git!
 hello git!
 hello git!master test
 hello git!
-hello git!
+hello git!merge test
 233333333
 6666666
